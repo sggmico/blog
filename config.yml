@@ -1,0 +1,30 @@
+# site title
+title: Sgg
+
+# user name or organization name
+user: szjxxy
+
+# issue repository
+repository: blog
+
+# multi-author
+authors: SGG
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: e#e874f0738e97f341d25d81c8fff645bdee229bf
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
