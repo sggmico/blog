@@ -1,7 +1,7 @@
 
-# szjxxyµÄ²©¿Í
+# ç å†œCoffeeçš„åšå®¢
 
-> µ±Ç°Î»ÖÃÎª²©¿ÍÊ×Ò³£¬»¶Ó­½øÈëwordÊÀ½ç£¡µã»÷ÏÂÃæÈë¿Ú£¬½øÈëissuesÄÚÈÝÒ³°É£¡
+> å½“å‰ä½ç½®ä¸ºåšå®¢é¦–é¡µï¼Œæ¬¢è¿Žè¿›å…¥wordä¸–ç•Œï¼ç‚¹å‡»ä¸‹é¢å…¥å£ï¼Œè¿›å…¥issueså†…å®¹é¡µå§ï¼
 
-## ²©¿Í
- **[¼ÇÂ¼×Ô¼º ¡¤ ¼ÇÂ¼³É³¤ ¡¤ ¼ÇÂ¼Éú»î](https://github.com/szjxxy/blog/issues)**
+## åšå®¢
+ **[è®°å½•è‡ªå·± Â· è®°å½•æˆé•¿ Â· è®°å½•ç”Ÿæ´»](https://github.com/szjxxy/blog/issues)**
